@@ -244,4 +244,4 @@ This repository serves as the official landing page for GeeXboX. The software is
 **Get the most recent version of GeeXboX today!**
 
 ---
-**Last updated:** 2026-09-28 16:12:00 UTC
+**Last updated:** 2026-09-28 22:19:17 UTC
